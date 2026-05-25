@@ -1,5 +1,3 @@
-
-
 ##  Project Overview
 
 SmartWalk is an IoT and Machine Learning-based wearable gait analysis system developed for the early detection and monitoring of Parkinson’s Disease (PD). The system analyzes gait parameters such as cadence, knee flexion variability, and double limb support time (DLST) using sensor-based smart footwear and wearable modules.
@@ -91,6 +89,9 @@ The system analyzes:
 - GMM clustering improved classification for overlapping gait patterns
 - Real-time vibration and buzzer alerts helped detect gait instability and freezing of gait (FoG)
   <img width="607" height="459" alt="image" src="https://github.com/user-attachments/assets/7d0513bc-5143-44a0-a88a-2d1234c8543e" />
+
+
+<img width="551" height="403" alt="image" src="https://github.com/user-attachments/assets/d52cd4be-29e6-4eaf-abe3-2c1420005f68" />
 
 
 ---
