@@ -74,11 +74,10 @@ The system analyzes:
 
 1. Sensor Data Collection
 2. Real-Time Gait Monitoring
-3. Data Storage using SD Card
-4. Feature Extraction
-5. Data Processing in Google Colab
-6. Machine Learning-Based Classification
-7. Real-Time Alert Generation
+3. Feature Extraction
+4. Data Processing in Google Colab
+5. Machine Learning-Based Classification
+6. Real-Time Alert Generation
 
 ---
 
