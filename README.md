@@ -86,12 +86,15 @@ The system analyzes:
 
 - Successfully differentiated Parkinson’s patients from healthy individuals
 - Achieved approximately 87% classification accuracy using K-Means Clustering
-- GMM clustering improved classification for overlapping gait patterns
-- Real-time vibration and buzzer alerts helped detect gait instability and freezing of gait (FoG)
   <img width="607" height="459" alt="image" src="https://github.com/user-attachments/assets/7d0513bc-5143-44a0-a88a-2d1234c8543e" />
+- GMM clustering improved classification for overlapping gait patterns
+  <img width="551" height="403" alt="image" src="https://github.com/user-attachments/assets/d52cd4be-29e6-4eaf-abe3-2c1420005f68" />
+
+- Real-time vibration and buzzer alerts helped detect gait instability and freezing of gait (FoG)
 
 
-<img width="551" height="403" alt="image" src="https://github.com/user-attachments/assets/d52cd4be-29e6-4eaf-abe3-2c1420005f68" />
+
+
 
 
 ---
