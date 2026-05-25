@@ -1,4 +1,4 @@
-<img width="607" height="459" alt="image" src="https://github.com/user-attachments/assets/c743b7b9-0fea-443e-aa1f-de65a17744f4" /># SmartWalk: Parkinson’s Disease Detection and Gait Analysis System
+
 
 ##  Project Overview
 
